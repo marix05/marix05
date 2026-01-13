@@ -4,7 +4,7 @@ I’m a Full-Stack Developer with hands-on experience in building reliable and s
 
 ## 💬 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,kotlin,flutter,typescript,javascript,html,css,sass)
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,kotlin,flutter,php,laravel,solidity,typescript,javascript,html,css,sass)
 
 ## 🛢️ Databases
 
