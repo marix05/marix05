@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Marix 👋
 
-<!--
-**marix05/marix05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack Developer with hands-on experience in building reliable and scalable services. I’m passionate about continuous learning, tackling new challenges, and continuously growing both professionally and technically.
 
-Here are some ideas to get you started:
+## 💬 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,kotlin,flutter,typescript,javascript,html,css,sass)
+
+## 🛢️ Databases
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo)
+
+## 📊 GitHub Stats
+
+![Github Commit](https://github-readme-stats.vercel.app/api?username=marix05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marix05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
